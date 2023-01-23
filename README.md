@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sne4ker/sne4ker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :fire: Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sne4ker&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sne4ker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
